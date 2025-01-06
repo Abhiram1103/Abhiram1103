@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiram1103
 - 👀 I’m interested in robotics 🤖 
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects related to my interests
 - 📫 How to reach me : you can reach out to me on github or through instagram (abhiramkavitharkika)
 - 😄 Pronouns: ...
