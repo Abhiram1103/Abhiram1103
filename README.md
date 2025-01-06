@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics 🤖 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects related to my interests
-- 📫 How to reach me : you can reach out to me on github or through instagram (abhiramkavitharkika)
+- 📫 How to reach me : you can reach out to me on github, linkedin (Abhiram Kavitharkika) or through instagram (@abhiramkavitharkika)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Robots will take over the world 🌎 
 
